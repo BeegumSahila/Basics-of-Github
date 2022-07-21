@@ -1,0 +1,23 @@
+Notes on basics of:
+Git
+Repository
+Push
+
+Making a git folder (this will have the content and history in local folder) : git init filename
+Status checking: Git status
+log checking: Git log
+commit: git commit -m "add the commit command here"
+Commit everything: git commit --all -m "command"
+Make a branch: git branch branchname
+switch a branch: git switch branchname
+
+
+To any git repository to link a git remote url: git remote add origin url
+to push to remote repository: git push origin branchname
+
+
+
+
+
+
+
